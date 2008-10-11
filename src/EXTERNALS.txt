@@ -5,6 +5,7 @@
 plone.supermodel https://svn.plone.org/svn/plone/plone.supermodel/trunk
 plone.folder https://svn.plone.org/svn/plone/plone.folder/trunk
 plone.dexterity https://svn.plone.org/svn/plone/plone.dexterity/trunk
+plone.schemaeditor https://svn.plone.org/svn/plone/plone.schemaeditor/trunk
 plone.app.dexterity https://svn.plone.org/svn/plone/plone.app.dexterity/trunk
 
 plone.behavior https://svn.plone.org/svn/plone/plone.behavior/trunk
